@@ -1,1 +1,4 @@
-project-zaika-team
+
+A one-page website for a health food store, created using HTML, CSS and JavaScript.
+
+Tech stack: HTML, CSS, JavaScript.
